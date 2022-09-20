@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.home{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./img/laptop\ 2.jpg);
+}
+
+
+.navbar{
+    background-color: brown;
+}
