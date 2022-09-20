@@ -8,10 +8,10 @@
 .home{
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(laptop\ 2.jpg);
+    background-image: url(./img/laptop.jpg);
 }
 
 
 .navbar{
-    background-color: black;
+    background-color: brown;
 }
